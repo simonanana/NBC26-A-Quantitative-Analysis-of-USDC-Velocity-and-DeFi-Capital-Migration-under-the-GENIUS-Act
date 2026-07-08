@@ -19,7 +19,6 @@ Replication code and analysis pipeline for a quasi-experimental study of how Sec
 ## Repository Structure
 
 ```
-.
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
